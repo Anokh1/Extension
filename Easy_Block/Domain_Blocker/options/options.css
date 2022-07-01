@@ -10,6 +10,10 @@
     color: blue;
 }
 
+.note{
+    color: red; 
+}
+
 #blocked-hosts {
     display: block;
     margin-top: 1em;
